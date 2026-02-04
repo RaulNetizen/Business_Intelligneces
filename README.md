@@ -7,6 +7,7 @@ Reducir fricciones en el proceso de compra digital y recuperar ventas perdidas m
 
 ## 🔍 Enfoque del Proyecto
 Proyecto conceptual (sin implementación técnica)
+
 🧍‍♀️ Storytelling del cliente: fricciones en pago y stock
 
 📊 KPIs clave: abandono de carrito, conversión, stock-out
